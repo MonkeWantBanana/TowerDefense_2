@@ -26,15 +26,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11101756980272266861
-  Name: "Animated Neon Sign - Hand"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "fxsm_NeonSign_Thumbs"
-  }
-}
-Assets {
   Id: 7887238662729938253
   Name: "Sky Dome"
   PlatformAssetType: 6

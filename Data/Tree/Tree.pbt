@@ -19,7 +19,6 @@ Objects {
   ChildIds: 14713340454944924967
   ChildIds: 10005074784157121906
   ChildIds: 14982843161775482339
-  ChildIds: 10832901858001055271
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,54 +34,11 @@ Objects {
   }
 }
 Objects {
-  Id: 10832901858001055271
-  Name: "Animated Neon Sign - Hand"
-  Transform {
-    Location {
-      X: 1537.00903
-      Y: 572.160889
-      Z: -2821.39404
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11101756980272266861
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
   Id: 14982843161775482339
   Name: "Default Floor"
   Transform {
     Location {
-      Z: -2871.39258
+      Z: -50
     }
     Rotation {
     }
